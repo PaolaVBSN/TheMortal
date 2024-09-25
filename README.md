@@ -1,2 +1,2 @@
 # TheMortal
-Atividade HTML e CSS
+Website developed for training using HTML, CSS and JS.
